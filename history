@@ -1,0 +1,64 @@
+    1  pwd
+    2  git--version
+    3  git --version
+    4  mkdir flipkart
+    5  cd flipkart
+    6  pwd
+    7  git init
+    8  ls -la
+    9  cd .git 
+   10  cd ..
+   11  vi DButils.java
+   12  git status
+   13  git add
+   14  git --version
+   15  cd Desktop
+   16  mkdir flipkart
+   17  cd flipkart
+   18  pwd
+   19  ls -la
+   20  pwd
+   21  git init
+   22  ls -la
+   23  cd .git
+   24  ls
+   25  cd..
+   26  cd ..
+   27  clear
+   28  vi DBUtils.java
+   29  git status
+   30  vi StringUtils.java
+   31  git status
+   32  git add .
+   33  git status
+   34  vi deploy.sh
+   35  git status
+   36  git config --global --list
+   37  git config --global --list
+   38  git config --global user.name "manusha"
+   39  git config --global user.email "manushareddy55@gmail.com"
+   40  git config --global --list
+   41  git status
+   42  git commit -m "First Commit"
+   43  git add .
+   44  git status
+   45  git commit -m "added deploy.sh"
+   46  git status
+   47  clear
+   48  git remote -v
+   49  git remaote add fk https://github.com/8106088889/flipkart.git
+   50  git remote add fk https://github.com/8106088889/flipkart.git
+   51  git remote -v
+   52  ls
+   53  git status
+   54  git remote -v
+   55  git push fk master
+   56  git push fk master
+   57  git push fk master
+   58  git status
+   59  git remote -v
+   60  git push fk 
+   61  git push origin master
+   62  git branch
+   63  git push master
+   64  history >> history
